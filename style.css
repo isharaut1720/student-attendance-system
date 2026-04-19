@@ -1,0 +1,88 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input, button {
+    padding: 10px;
+}
+
+button {
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: green;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+
+.present {
+    color: green;
+}
+
+.absent {
+    color: red;
+}
+
+button.delete {
+    background: red;
+}
+
+button.edit {
+    background: orange;
+}
+
+.actions button {
+    margin: 2px;
+}
+
+#search {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.high {
+    color: green;
+    font-weight: bold;
+}
+
+.medium {
+    color: orange;
+    font-weight: bold;
+}
+
+.low {
+    color: red;
+    font-weight: bold;
+}
