@@ -36,7 +36,7 @@ A simple and interactive **Student Attendance System** built using HTML, CSS, an
 
 ## 🌐 Live Demo
 
-👉 (Add your GitHub Pages link here after deployment)
+👉 https://student-attendance-system-isha.netlify.app/
 
 ---
 
